@@ -8,5 +8,8 @@ export default defineNuxtConfig({
     "@nuxtjs/color-mode",
     "@nuxtjs/tailwindcss"
   ],
+  tailwindcss: {
+    config: '~/tailwind.config.js'
+  },
   plugins: ['~/plugins/gsap.ts']
 })
