@@ -4,5 +4,9 @@ export default defineNuxtConfig({
   devtools: { enabled: false },
   css:  ["~/assets/css/main.css"],
   modules: [
-    "@nuxt/icon", "@nuxtjs/color-mode", "@nuxtjs/tailwindcss"]
+    "@nuxt/icon",
+    "@nuxtjs/color-mode",
+    "@nuxtjs/tailwindcss"
+  ],
+  plugins: ['~/plugins/gsap.ts']
 })
