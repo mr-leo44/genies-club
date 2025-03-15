@@ -49,6 +49,6 @@ onMounted(() => {
 </script>
 <style scoped>
 .card {
-  clip-path: polygon(5% 5%, 95% 5%, 95% 95%, 5% 95%);
+  clip-path: polygon(2.5% 2.5%, 97.5% 2.5%, 97.5% 97.5%, 2.5% 97.5%);
 }
 </style>
