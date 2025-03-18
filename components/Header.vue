@@ -4,10 +4,10 @@
       <h1 class="font-bold text-6xl text-center">
         Transformez vos idées en expériences inoubliables
       </h1>
-      <p class="my-8 text-center">
+      <p class="my-4 text-center text-lg">
         prêt à voir l'extraordinaire prendre vie sous vos yeux ? <br/> Découvrez comment chaque détail devient une étincelle de magie, <br/> chaque projet une histoire à partager.
       </p>
-      <div class="mt-4">
+      <div>
         <img src="~/assets/images/hero.png" class="size-72" />
       </div>
     </div>
