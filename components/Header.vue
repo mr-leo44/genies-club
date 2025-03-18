@@ -1,7 +1,7 @@
 <template>
   <header class="h-screen bg-slate-50">
     <div class="flex flex-col max-w-6xl mx-auto w-full h-screen items-center pt-20">
-      <h1 class="font-bold text-6xl text-center">
+      <h1 class="font-bold text-7xl text-center">
         Transformez vos idées en expériences inoubliables
       </h1>
       <p class="my-4 text-center text-lg">
