@@ -12,6 +12,6 @@ export default defineNuxtConfig({
     config: '~/tailwind.config.js'
   },
   plugins: [
-    {'~/plugins/gsap.ts', mode: "client"},
+    '~/plugins/gsap.ts'
   ]
 })
